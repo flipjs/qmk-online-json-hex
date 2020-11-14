@@ -6,3 +6,7 @@
 3. Make some edits if any, then compile
 4. Download hex file
 5. Use QMK Toolbox to flash keyboard
+
+## Keyboards
+- OLKB Planck rev.5
+- Corne
